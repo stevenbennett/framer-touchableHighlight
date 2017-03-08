@@ -10,7 +10,7 @@ On touchStart, the opacity of the button is slightly decreased, and returns to n
 
 1. Download touchableHighlight.coffee
 2. Copy touchableHighlight.coffee to the /modules folder within your Framer project
-3. Add touchableHighlight = require "touchableHighlight"
+3. Add touchableHighlight = require "touchableHighlight" at the top of your document
 
 
 ## Usage
