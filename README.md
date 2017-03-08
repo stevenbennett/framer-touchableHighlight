@@ -4,6 +4,8 @@ A module for Framer.js that adds a "touchable highlight" behavior to your button
 
 On touchStart, the opacity of the button is slightly decreased, and returns to normal on touchEnd.
 
+![Framer TouchableHighlight Example](https://github.com/stevenbennett/framer-touchableHighlight/touchableHighlight_example.png)
+
 ## Installation
 
 1. Download touchableHighlight.coffee
